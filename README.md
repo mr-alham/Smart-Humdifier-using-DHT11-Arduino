@@ -30,6 +30,8 @@ _see circuit diagram to see clearly_
 
 > connect all **Vcc** pins
 
+_*you can either connect 5V from arduino board or humidifier via usb port or you can connect external 5V supply to powerup ._
+
 #### CODE:
 ```c++
 // Smart_Humidifier_Using_DHT11_-_Arduino
