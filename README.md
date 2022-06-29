@@ -9,7 +9,7 @@ When humidity is below 40% humidifier will work on continous mode, And if humidi
 > [twitter](https://twitter.com/alham__aa)
 > [github](https://github.com/MrAlham)
 ##### contact on: 
-> [alham@duck.com](alham@duck.com) 
+> [alham@duck.com](mailto:alham@duck.com) 
 
 ###### parts:
 * Arduino Nano/uno
