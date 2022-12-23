@@ -1,4 +1,4 @@
-# Smart_Humidifier_Using_DHT11_-_Arduino_by-ALHAM
+# Smart-Humdifier-using-DHT11-Arduino 
 This smart humidifier will help you to control humidifier using a Humidifier driver, Arduino Nano as well as a DHT11 sensor.
 
 When humidity is below 40% humidifier will work on continous mode, And if humidity is between 40% to 65% humidifier will work on with pauses mode, As well as if humidity exceeded 65% humidifier will turn off as too much humidity is not good. _(*if this humidity range is not satisfying for you you can adjust maximum humidity and low humidity levels from the code)_
